@@ -135,7 +135,7 @@ namespace lab4
 
             dirView.Nodes.Clear();
             PopulateTreeView();
-
+            //
             dirView.EndUpdate();
         }
 
